@@ -1,2 +1,2 @@
 #!/bin/bash
-sed '$!d' iacta | tee -a iacta
+tar -n1 iacta >> iacta
